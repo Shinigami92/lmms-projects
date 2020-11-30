@@ -1,0 +1,25 @@
+- TriOsc Bass
+  -> C* AmpIV
+
+- Snare, HiHat, C-HiHat
+  -> TAP Reverberator
+  
+- Kick, Snare M, Ride
+
+Kick: drums/bassdrum04
+Snare M: drums/snare_muffled02
+C-HiHat: drums/hihat_closed01
+Ride: drums/ride01
+HiHat: drums/hihat_closed05
+Snare: drums/snare_hiphop01
+
+---
+
+- Bit Invader
+  - C* SweepVFII
+  - (+)
+  - Freeverb
+
+Interesting Sounds:
+- drumsynth/{effects/thunder,jorgensohn/ride6}
+- drumsynth/electro/Synthom_2

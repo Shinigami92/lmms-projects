@@ -1,2 +1,3 @@
-# lmms-projects
+# LMMS Projects
+
 Projects from my LMMS
